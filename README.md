@@ -2,7 +2,7 @@
 
 # Contact
 * [Twitter](https://twitter.com/atebitsy)
-* [Discord Server](https://discord.gg/G3t9CMbDe4) 
+* [Discord Server](https://discord.gg/YEyDPBYApC) 
 
 # Supported Platforms
 * Twitter 8.49+
