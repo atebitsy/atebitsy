@@ -7,6 +7,8 @@
 # Supported Platforms
 * Twitter 8.49+
 * iOS 15.0+
+* Jailbroken
+* Sideloaded
 
 # FAQ
 
@@ -74,6 +76,3 @@ Color codes inside the `json` can be the following:
   * atebitsy can take 8 character HEX --> `#RRGGBB`
 * 8 character HEX --> `#RRGGBBAA`
   * atebitsy can also take 8 character HEX --> `#RRGGBBAA`
-
-
-
