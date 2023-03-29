@@ -10,6 +10,16 @@
 * Jailbroken
 * Sideloaded
 
+# Features
+* Create Theme
+* Delete Teheme
+* Change Theme Info
+* Basic Color Theme Editing
+* Advanced Color Theme Editing
+* Share Theme everywhere
+* Import Theme via DocumentPicker
+* Download Theme via GitHub URL
+
 # FAQ
 
 > How to view atebity's settings:
