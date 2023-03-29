@@ -17,15 +17,11 @@
 * On iPad, tap the Twitter icon on the left in the TabBar
 
 > How to install a Theme:
-* You can install a Theme with the FilePicker in atebity's settings by tapping the chevron.down and then tapping the folder icon and select the json file of the theme you'd like to install.
-* You can install a Theme with a download link in atebity's settings by tapping the chevron.down and then tapping the download icon.
+* You can install a Theme with the FilePicker in atebity's settings by tapping the pencil and then tapping the folder icon and select the json file of the theme you'd like to install.
+* You can install a Theme with a download link in atebity's settings by tapping the pencil and then tapping the download icon.
 
-> How to install a Theme:
-* You can install a Theme with the FilePicker in atebity's settings by tapping the chevron.down and then tapping the folder icon.
-* You can install a Theme with a download link in atebity's settings by tapping the chevron.down and then tapping the download icon.
-
-> How create a Theme:
-* You can create a new Theme in atebity's settings by tapping the chevron.down and then tapping the plus icon.
+> How to create a Theme:
+* You can create a new Theme in atebity's settings by tapping the pencil and then tapping the plus icon.
 
 * You can also create a Theme on your pc/mac with any code editior you prefer and
 [Use this Template to create a Dark Theme](https://github.com/atebitsy/theme-template) / [Use this Template to create a Light Theme](https://github.com/atebitsy/theme-template) 
