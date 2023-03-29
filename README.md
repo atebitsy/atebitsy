@@ -1,12 +1,14 @@
-# atebitsy let's you color all components of the Twitter app
+# atebitsy (color all the components of the Twitter app)
 
-# Version Support (Lower versions of Twitter and iOS are NOT supported!!)
-* Twitter app (v8.49)
-* iOS 15.0 and above.
+# Contact
+* [Twitter](https://twitter.com/atebitsy)
+* [Discord Server](https://discord.gg/G3t9CMbDe4) 
+
+# Supported Platforms
+* Twitter 8.49+
+* iOS 15.0+
 
 # FAQ
-
-* If you have any problems or questions please contact me on [Twitter](https://twitter.com/atebitsy) or via our [Discord Server](https://discord.gg/G3t9CMbDe4) 
 
 > How to view atebity's settings:
 * On iPhone, tap the Twitter icon at the top of the Timeline.
@@ -72,5 +74,6 @@ Color codes inside the `json` can be the following:
   * atebitsy can take 8 character HEX --> `#RRGGBB`
 * 8 character HEX --> `#RRGGBBAA`
   * atebitsy can also take 8 character HEX --> `#RRGGBBAA`
+
 
 
