@@ -12,11 +12,11 @@
 
 # Features
 * Create Theme
-* Delete Teheme
+* Delete Theme
 * Change Theme Info
 * Basic Color Theme Editing
 * Advanced Color Theme Editing
-* Share Theme everywhere
+* Share Theme Anywhere
 * Import Theme via DocumentPicker
 * Download Theme via GitHub URL
 
