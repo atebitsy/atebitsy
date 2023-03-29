@@ -30,13 +30,10 @@
 * Tap on the Theme you'd like to edit and you will be taken to a View where you can edit the colors of over 100 different components of the Theme you want to edit.
 
 > How to use Advanced Theme Color Editing:
-* LongPress on the Theme you'd like to edit, you will then be greeted with a context menu which you will then tap advanced editing and you will be taken to a View where you can edit the colors of over 400 different components of the Theme you want to edit.
+* LongPress on the Theme you'd like to edit, you will then be greeted with a context menu which you will then tap advanced editing and you will be taken to a View where you can edit the colors of over 416 different components of the Theme you want to edit.
 
 > Version control:
 * If you install a Theme you currerntly have installed, and the version number is different, the theme will be updated with the newer version.
-
-# How to create a Theme for atebitsy
-> This supports Twitter **v8.49** and atebitsy **v8.49**
 
 - - - -
 
