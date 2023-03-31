@@ -1,4 +1,17 @@
-# atebitsy (color all the components of the Twitter app)
+<div align="center">
+  <h1>atebitsy (color all the components of the Twitter app)</h1> 
+</div>
+
+## <ins>Features</ins>
+* Create Theme
+* Delete Theme
+* Change Theme Info
+* Basic Color Theme Editing
+* Advanced Color Theme Editing
+* Share Theme Anywhere
+* Import Theme via DocumentPicker
+* Download Theme via GitHub URL
+
 
 # Contact
 * [Twitter](https://twitter.com/atebitsy)
@@ -9,16 +22,6 @@
 * iOS 15.0+
 * Jailbroken
 * Sideloaded
-
-# Features
-* Create Theme
-* Delete Theme
-* Change Theme Info
-* Basic Color Theme Editing
-* Advanced Color Theme Editing
-* Share Theme Anywhere
-* Import Theme via DocumentPicker
-* Download Theme via GitHub URL
 
 # FAQ
 
